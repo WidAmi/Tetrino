@@ -1,0 +1,4 @@
+Copyright 2012 David Mitchell
+
+Tetrino is a port of Simple Tetris Clone to the Arduino. For output
+is uses WS2801 RGB LED pixels.
